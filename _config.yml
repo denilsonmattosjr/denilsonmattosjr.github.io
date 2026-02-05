@@ -1,11 +1,11 @@
 title: Denilson Júnior # your name (or website title) here
 logo: "/images/Perfil.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Portfólio pessoal com projetos de estudo em Análise de Dados, Machine Learning e Python, focado em aprendizado prático e desenvolvimento contínuo. 
   <br><br>
-  Second description 
+  
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/denilson-d-345965391/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
